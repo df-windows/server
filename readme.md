@@ -1,0 +1,1 @@
+My server settings in Windows 10.
