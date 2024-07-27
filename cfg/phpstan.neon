@@ -1,0 +1,10 @@
+# 2022-10-27
+# 1) https://ne-on.org
+# 2) https://phpstan.org/config-reference
+parameters:
+    level: max
+    ignoreErrors:
+        # 2022-10-27
+        # 1) https://phpstan.org/user-guide/ignoring-errors
+        # 2) https://github.com/phpstan/phpstan/issues/2864
+        - '#Variable \S+ in PHPDoc tag @var does not exist#'

@@ -6,4 +6,5 @@
 !*/
 !/.editorconfig
 !/.gitignore
+!/cfg/**/*
 !/readme.md
