@@ -7,4 +7,6 @@
 !/.editorconfig
 !/.gitignore
 !/cfg/**/*
+!/crt/**/*
+/crt/**/*.key
 !/readme.md
