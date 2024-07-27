@@ -1,0 +1,17 @@
+bootstrap.memory_lock: false
+cluster.name: elasticsearch
+http.port: 9201
+# 2023-08-05
+# "How did I fix «Fielddata access on the _id field is disallowed» in Magento 2.4.7-beta1 and Elasticsearch 8?":
+# https://mage2.pro/t/6377
+indices.id_field_data.enabled: true
+node.data: true
+node.ingest: true
+node.master: true
+node.max_local_storage_nodes: 1
+node.name: DMITRII
+path.data: E:\server\elasticsearch\7.17.6
+path.logs: C:\server\log\elasticsearch-7.17.6
+transport.tcp.port: 9301
+xpack.license.self_generated.type: basic
+xpack.security.enabled: false
