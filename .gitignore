@@ -8,5 +8,6 @@
 !/.gitignore
 !/cfg/**/*
 !/crt/**/*
-/crt/**/*.key
+!/elasticsearch/config/**/*
 !/readme.md
+/crt/**/*.key
