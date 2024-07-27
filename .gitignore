@@ -15,5 +15,6 @@
 # 024-07-27 "How do I install Elasticsearch 8.5 to Windows?": https://df.tips/t/1794/2#step-8-8
 !/elasticsearch/config/**/*
 !/mysql/ini/**/*
+!/nginx/conf/**/*
 !/readme.md
 /crt/**/*.key
