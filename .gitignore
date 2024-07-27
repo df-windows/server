@@ -16,5 +16,6 @@
 !/elasticsearch/config/**/*
 !/mysql/ini/**/*
 !/nginx/conf/**/*
+!/php/**/*.ini
 !/readme.md
 /crt/**/*.key
