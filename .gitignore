@@ -6,6 +6,7 @@
 !*/
 !/.editorconfig
 !/.gitignore
+!/apache/conf/**/*.cnf
 !/apache/conf/**/*.conf
 !/apache/conf/**/*.types
 !/cfg/**/*
