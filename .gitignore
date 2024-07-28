@@ -6,6 +6,7 @@
 !*/
 !/.editorconfig
 !/.gitignore
+!/apache/**/*.conf
 !/cfg/**/*
 !/crt/**/*
 # 2024-07-27
